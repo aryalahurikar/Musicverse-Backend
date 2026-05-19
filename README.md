@@ -58,7 +58,7 @@ backend
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/aryalahurikar/Musicverse-Backend.git
 ```
 
 Move to backend folder:
